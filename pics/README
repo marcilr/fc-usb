@@ -5,5 +5,13 @@ Copyright (C) 2022 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+fc-usb2.jpg
+  FC-USB adds 4 USB2 ports to fitlet2 for a total of 8 ports 
+  (2x USB3 + 6x USB2, all type-A connector)
+  FC-USB has an M.2 key-E socket, normally used for a Wi-Fi adapter.
+  Notes: Does not affect M.2 SSD (M.2 SSD 2260 can be installed with 
+         FC-M2LAN)
+  https://fit-iot.com/web/wp-content/uploads/2017/12/fc-usb2.jpg
+
 README
   README with filelist
